@@ -15,7 +15,8 @@
     "react": "latest",
     "react-dom": "latest",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "latest"
+    "react-scripts": "latest",
+    "react-slick": "^0.24.0"
   },
   "browserslist": {
     "production": [
